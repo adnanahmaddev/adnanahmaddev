@@ -38,11 +38,11 @@ Here are a few select projects representing my work. You can explore the full sh
 
 ### 🎓 [StudyPal](https://github.com/adnanahmaddev/StudyPal)
 *An intelligent AI tutor and learning assistant leveraging multi-modal Gemini models.*
-* **Keywords**: EdTech, AI Tutor, React, Gemini API, TypeScript.
+* **Keywords**: Next.js · FastAPI · PostgreSQL · local LLMs (Qwen2.5 / Gemma4) · CopilotKit LangGraph, Manim · Vocal Bridge
 
 ### 🖼️ [Gemini Watermark Remover](https://github.com/adnanahmaddev/gemini-watermark-remover)
 *A utility tool that leverages multi-modal vision-language models to identify and remove watermarks.*
-* **Keywords**: Gemini Vision, Image Processing, TypeScript.
+* **Keywords**: Gemini Vision, Video Processing, Python, numpy, opencv-python, FFmpeg
 
 ### 🚫 [DataCamp Ad Blocker](https://github.com/adnanahmaddev/datacamp-ad-blocker)
 *A modern Chrome extension built with Manifest V3 to optimize learning focus.*
@@ -53,7 +53,7 @@ Here are a few select projects representing my work. You can explore the full sh
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://adnanahmad.dev/blog):
 * 📝 **[How to Build a Safe, Harness-Agnostic Text-to-SQL Engine for AI Agents](https://adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
-* 📝 **[Implementing Resilient Event-Driven Microservices in Distributed Environments](https://adnanahmad.dev/blog)**
+* 📝 **[The Developer's New Rulebook: How AI and LLMs are Rewriting Software Engineering Paradigms](https://adnanahmad.dev/blog/the-developers-new-rulebook-how-ai-and-llms-are-rewriting-software-engineering-paradigms)**
 
 ---
 

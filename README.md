@@ -36,6 +36,10 @@ Here are a few select projects representing my work. You can explore the full sh
 * **Keywords**: AI Agents, LLM, Text-to-SQL, Database Security, Python.
 * **Website Detail**: Read the deep dive article: [Building a Safe Text-to-SQL Engine](https://adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents).
 
+### 📐 [Synapse](https://github.com/adnanahmaddev/synapse)
+*An open-source AI course generator that generates complete, structured curriculums (modules, lesson content, and interactive quiz checkpoints) from a single prompt. Features a dual-provider model for cloud/local inference (Gemini & Ollama) and an offline-first data layer with IndexedDB caching and auto-sync queue to MongoDB.*
+* **Keywords**: Next.js, TypeScript, Gemini API, Ollama, IndexedDB, MongoDB.
+
 ### 📐 [StudyPal](https://github.com/adnanahmaddev/StudyPal)
 *An agent-native, AI-powered personalized learning companion. Features RAG knowledge hubs for document Q&A, adaptive custom quizzes, mind-mapping tools, and Manim-powered visual math animations.*
 * **Keywords**: Next.js · FastAPI · PostgreSQL · local LLMs (Qwen2.5 / Gemma4) · CopilotKit LangGraph, Manim · Vocal Bridge.
@@ -52,9 +56,10 @@ Here are a few select projects representing my work. You can explore the full sh
 
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://adnanahmad.dev/blog):
-* 📝 **[The Developer's New Rulebook: How AI and LLMs Are Rewriting Software Engineering Paradigms](https://adnanahmad.dev/blog/the-developers-new-rulebook-how-ai-and-llms-are-rewriting-software-engineering-paradigms)**
-* 📝 **[How to Build a Safe, Harness-Agnostic Text-to-SQL Engine for AI Agents](https://adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
-* 📝 **[Scaling Real-Time Infrastructure for Smart City Systems](https://adnanahmad.dev/blog/scaling-real-time-systems)**
+* 📝 **[I Built an AI Course Generator with Gemini & Next.js](https://adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture)**
+* 📝 **[Unlocking Native Computer Use: Setting up CUA with Gemini 3.5 Flash](https://adnanahmad.dev/blog/unlocking-native-computer-use-setting-up-cua-with-gemini-35-flash)**
+* 📝 **[How AI & LLMs Are Rewriting Software Engineering](https://adnanahmad.dev/blog/the-developers-new-rulebook-how-ai-and-llms-are-rewriting-software-engineering-paradigms)**
+* 📝 **[Building a Safe, Harness-Agnostic Text-to-SQL Engine](https://adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
 * 📝 **[Designing Agent-Native Systems: A Deep Dive into StudyPal](https://adnanahmad.dev/blog/agent-native-systems-studypal)**
 
 ---

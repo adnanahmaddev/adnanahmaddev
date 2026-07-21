@@ -44,6 +44,7 @@ Here are a few select projects representing my work. You can explore the full sh
 ### 🎓 [StudyPal](https://github.com/adnanahmaddev/StudyPal)
 *An intelligent AI tutor and learning assistant leveraging multi-modal Gemini models.*
 * **Keywords**: Next.js · FastAPI · PostgreSQL · local LLMs (Qwen2.5 / Gemma4) · CopilotKit LangGraph, Manim · Vocal Bridge
+* **Website Detail**: Read the deep dive article: [Designing Agent-Native Systems: A Deep Dive into StudyPal](https://www.adnanahmad.dev/blog/agent-native-systems-studypal).
 
 ### 🖼️ [Gemini Watermark Remover](https://github.com/adnanahmaddev/gemini-watermark-remover)
 *A utility tool that leverages multi-modal vision-language models to identify and remove watermarks.*
@@ -57,9 +58,11 @@ Here are a few select projects representing my work. You can explore the full sh
 
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://www.adnanahmad.dev/blog):
-* 📝 **[How to Build a Safe, Harness-Agnostic Text-to-SQL Engine for AI Agents](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
+* 📝 **[Unlocking Native Computer Use: Setting up CUA with Gemini 3.5 Flash](https://www.adnanahmad.dev/blog/unlocking-native-computer-use-setting-up-cua-with-gemini-35-flash)**
 * 📝 **[Building Synapse: AI-Powered Learning with Offline-First Architecture](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture)**
 * 📝 **[The Developer's New Rulebook: How AI and LLMs are Rewriting Software Engineering Paradigms](https://www.adnanahmad.dev/blog/the-developers-new-rulebook-how-ai-and-llms-are-rewriting-software-engineering-paradigms)**
+* 📝 **[How to Build a Safe, Harness-Agnostic Text-to-SQL Engine for AI Agents](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
+* 📝 **[Designing Agent-Native Systems: A Deep Dive into StudyPal](https://www.adnanahmad.dev/blog/agent-native-systems-studypal)**
 
 ---
 

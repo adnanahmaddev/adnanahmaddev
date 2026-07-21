@@ -36,6 +36,11 @@ Here are a few select projects representing my work. You can explore the full sh
 * **Keywords**: AI Agents, LLM, Text-to-SQL, Database Security, Python.
 * **Website Detail**: Read the deep dive article: [Building a Safe Text-to-SQL Engine](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents).
 
+### ⚡ [Synapse](https://github.com/adnanahmaddev/synapse)
+*An open-source AI course generator creating structured curriculums with dual-provider cloud/local inference (Gemini & Ollama) and offline-first sync.*
+* **Keywords**: Next.js · TypeScript · Gemini API · Ollama · IndexedDB · MongoDB
+* **Website Detail**: Read the deep dive article: [Building Synapse: AI-Powered Learning with Offline-First Architecture](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture).
+
 ### 🎓 [StudyPal](https://github.com/adnanahmaddev/StudyPal)
 *An intelligent AI tutor and learning assistant leveraging multi-modal Gemini models.*
 * **Keywords**: Next.js · FastAPI · PostgreSQL · local LLMs (Qwen2.5 / Gemma4) · CopilotKit LangGraph, Manim · Vocal Bridge
@@ -53,6 +58,7 @@ Here are a few select projects representing my work. You can explore the full sh
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://www.adnanahmad.dev/blog):
 * 📝 **[How to Build a Safe, Harness-Agnostic Text-to-SQL Engine for AI Agents](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents)**
+* 📝 **[Building Synapse: AI-Powered Learning with Offline-First Architecture](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture)**
 * 📝 **[The Developer's New Rulebook: How AI and LLMs are Rewriting Software Engineering Paradigms](https://www.adnanahmad.dev/blog/the-developers-new-rulebook-how-ai-and-llms-are-rewriting-software-engineering-paradigms)**
 
 ---

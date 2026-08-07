@@ -31,20 +31,24 @@ I am a **Principal Software Engineer** specializing in **AI Engineering**, **Dis
 
 Here are a few select projects representing my work. You can explore the full showcase on my [Projects Page](https://www.adnanahmad.dev/projects).
 
+### 📐 [macOS Window Manager](https://github.com/adnanahmaddev/window-manager-skill)
+*A dynamic, resolution-independent desktop window layout engine for macOS that enables AI agents to tile, split, and stack windows automatically via AppleScript and a compact column DSL.*
+* **Keywords**: Python 3, AppleScript, macOS System Events, AI Agents, Automation.
+
 ### 📐 [MermaidAI Studio](https://github.com/adnanahmaddev/mermaid-ai)
 *An AI-powered diagram studio and interactive visual editor that converts natural language into live Mermaid.js system architecture diagrams, featuring self-healing syntax auto-fix, Monaco editor, and pan/zoom SVG viewport canvas.*
 * **Keywords**: Next.js 15, React 19, TypeScript, Gemini 3.6 Flash, Mermaid.js, Monaco Editor.
 * **Website Detail**: Read the deep dive article: [Building MermaidAI: An AI Diagram Studio with Gemini 3.6](https://www.adnanahmad.dev/blog/building-mermaidai-an-ai-diagram-studio-with-gemini-3-6).
 
-### 📐 [Harness-Agnostic Text-to-SQL](https://github.com/adnanahmaddev/harness-agnostic-text-to-sql)
-*A production-grade, IDE/agent-harness agnostic, and database-agnostic Python library that translates natural language queries into safe SQL statements and executes them against a database, with a built-in strict safety layer and automatic Azure Active Directory (Entra ID) token authentication support.*
-* **Keywords**: AI Agents, LLM, Text-to-SQL, Database Security, Python.
-* **Website Detail**: Read the deep dive article: [Building a Safe Text-to-SQL Engine](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents).
-
 ### 📐 [Synapse](https://github.com/adnanahmaddev/synapse)
 *An open-source AI course generator that generates complete, structured curriculums (modules, lesson content, and interactive quiz checkpoints) from a single prompt. Features a dual-provider model for cloud/local inference (Gemini & Ollama) and an offline-first data layer with IndexedDB caching and auto-sync queue to MongoDB.*
 * **Keywords**: Next.js, TypeScript, Gemini API, Ollama, IndexedDB, MongoDB.
 * **Website Detail**: Read the deep dive article: [Building Synapse](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture).
+
+### 📐 [Harness-Agnostic Text-to-SQL](https://github.com/adnanahmaddev/harness-agnostic-text-to-sql)
+*A production-grade, IDE/agent-harness agnostic, and database-agnostic Python library that translates natural language queries into safe SQL statements and executes them against a database, with a built-in strict safety layer and automatic Azure Active Directory (Entra ID) token authentication support.*
+* **Keywords**: AI Agents, LLM, Text-to-SQL, Database Security, Python.
+* **Website Detail**: Read the deep dive article: [Building a Safe Text-to-SQL Engine](https://www.adnanahmad.dev/blog/how-to-build-a-safe-harness-agnostic-text-to-sql-engine-for-ai-agents).
 
 ### 📐 [StudyPal](https://github.com/adnanahmaddev/StudyPal)
 *An agent-native, AI-powered personalized learning companion. Features RAG knowledge hubs for document Q&A, adaptive custom quizzes, mind-mapping tools, and Manim-powered visual math animations.*
@@ -63,6 +67,7 @@ Here are a few select projects representing my work. You can explore the full sh
 
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://www.adnanahmad.dev/blog):
+* 📝 **[Building a Dynamic macOS Window Manager for AI Agents](https://www.adnanahmad.dev/blog/building-a-dynamic-macos-window-manager-for-ai-agents)**
 * 📝 **[Building MermaidAI: An AI Diagram Studio with Gemini 3.6](https://www.adnanahmad.dev/blog/building-mermaidai-an-ai-diagram-studio-with-gemini-3-6)**
 * 📝 **[I Built an AI Course Generator with Gemini & Next.js](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture)**
 * 📝 **[Unlocking Native Computer Use: Setting up CUA with Gemini 3.5 Flash](https://www.adnanahmad.dev/blog/unlocking-native-computer-use-setting-up-cua-with-gemini-35-flash)**

@@ -31,8 +31,12 @@ I am a **Principal Software Engineer** specializing in **AI Engineering**, **Dis
 
 Here are a few select projects representing my work. You can explore the full showcase on my [Projects Page](https://www.adnanahmad.dev/projects).
 
+### 📐 [System One Browser Agent](https://github.com/adnanahmaddev/system-one-browser-agent)
+*A high-speed, dual-process autonomous browser agent harness combining sub-150ms Jev reflex decisions with Stagehand stealth automation and Gemini/Claude System 2 reasoning. Features a Next.js 16 operator dashboard with live CDP viewport screencasting.*
+* **Keywords**: TypeScript, Stagehand v4, Jev (TypeSafe AI), Playwright, Next.js 16, Gemini Flash, Claude Sonnet.
+
 ### 📐 [macOS Window Manager](https://github.com/adnanahmaddev/window-manager-skill)
-*A dynamic, resolution-independent desktop window layout engine for macOS that enables AI agents to tile, split, and stack windows automatically via AppleScript and a compact column DSL.*
+*A free, open-source macOS window manager for AI agents. Tell your agent in plain English to arrange your windows—like*
 * **Keywords**: Python 3, AppleScript, macOS System Events, AI Agents, Automation.
 
 ### 📐 [MermaidAI Studio](https://github.com/adnanahmaddev/mermaid-ai)
@@ -67,6 +71,7 @@ Here are a few select projects representing my work. You can explore the full sh
 
 ## 📄 Latest Articles & Thoughts
 I write about AI, system architecture, and modern engineering practices. Read them on my [Blog](https://www.adnanahmad.dev/blog):
+* 📝 **[Building System One: A Dual-Process Browser Agent](https://www.adnanahmad.dev/blog/building-system-one-a-dual-process-browser-agent)**
 * 📝 **[Building a Dynamic macOS Window Manager for AI Agents](https://www.adnanahmad.dev/blog/building-a-dynamic-macos-window-manager-for-ai-agents)**
 * 📝 **[Building MermaidAI: An AI Diagram Studio with Gemini 3.6](https://www.adnanahmad.dev/blog/building-mermaidai-an-ai-diagram-studio-with-gemini-3-6)**
 * 📝 **[I Built an AI Course Generator with Gemini & Next.js](https://www.adnanahmad.dev/blog/building-synapse-ai-powered-learning-with-offline-first-architecture)**

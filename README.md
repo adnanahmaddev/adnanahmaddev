@@ -15,19 +15,20 @@ I am a **Principal Software Engineer** specializing in **AI Engineering**, **Dis
 
 ## 🚀 Core Competencies
 
-### 🤖 AI Engineering & Agentic Workflows
+### AI Engineering & Agentic Workflows
 * **Autonomous AI Agents**: Production multi-agent systems, streaming AI assistants, and custom skill ecosystems for repeatable agent actions — using AWS Bedrock, Vertex AI, LangGraph, Deep Agents, Gemini API, and MCP.
 * **Browser Agents & Computer Use**: Autonomous browser agents combining System 1 / Jev fast-decision models with DOM automation and LLM reasoning fallbacks.
 * **Text-to-SQL Engines**: Safe, harness-agnostic database query execution powered by LLMs with built-in guardrails.
 
-### 👁️ Computer Vision & Media Processing
+### Computer Vision & Media Processing
 * **Spatial Detection & 3D Analysis**: Real-time detection systems using 3D point cloud analysis and YOLOv8 object detection pipelines.
 * **Deterministic CV & Media Pipelines**: Zero-flicker day-to-night video conversion via deterministic computer vision pipelines (Purkinje scotopic grading, 3D LUTs, luma-chroma sky segmentation, emissive bloom synthesis, and async FFmpeg engines); automated video watermark removal.
 
-### 🌐 Distributed Systems & Scalability
+### Distributed Systems & Scalability
 * **High-Throughput Microservices**: Resilient, event-driven backends and low-latency APIs built with Vertical Slice Architecture.
 * **Micro-Frontend Platforms**: Scalable MFE architectures with design token systems driving UI consistency across teams.
 * **Real-Time Systems**: Streaming pipelines, pub-sub architectures, and websocket-based concurrency at scale.
+* **Clean Architecture**: Designing modular, testable codebases and maintainable domain boundaries in TypeScript and Python.
 
 ---
 

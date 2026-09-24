@@ -16,14 +16,17 @@ I am a **Principal Software Engineer** specializing in **AI Engineering**, **Dis
 ## 🚀 Core Competencies
 
 ### 🤖 AI Engineering & Agentic Workflows
-* **Architecting AI Agents**: Designing autonomous, multi-agent systems using framework design patterns (Gemini API, Claude, LangGraph).
-* **Text-to-SQL Engines**: Building safe, harness-agnostic database query systems powered by Large Language Models.
-* **Vision & Multi-modal Integration**: Integrating multi-modal LLMs for real-time document and media processing.
+* **Autonomous AI Agents**: Production multi-agent systems, streaming AI assistants, and custom skill ecosystems for repeatable agent actions — using AWS Bedrock, Vertex AI, LangGraph, Deep Agents, Gemini API, and MCP.
+* **Browser Agents & Computer Use**: Autonomous browser agents combining System 1 / Jev fast-decision models with DOM automation and LLM reasoning fallbacks.
+* **Text-to-SQL Engines**: Safe, harness-agnostic database query execution powered by LLMs with built-in guardrails.
+
+### 👁️ Computer Vision & Media Processing
+* **Spatial Detection & 3D Analysis**: Real-time detection systems using 3D point cloud analysis and YOLOv8 object detection pipelines.
+* **Deterministic CV & Media Pipelines**: Zero-flicker day-to-night video conversion via deterministic computer vision pipelines (Purkinje scotopic grading, 3D LUTs, luma-chroma sky segmentation, emissive bloom synthesis, and async FFmpeg engines); automated video watermark removal.
 
 ### 🌐 Distributed Systems & Scalability
-* **High-Throughput Microservices**: Building resilient, low-latency APIs and event-driven backends.
-* **Real-Time Systems**: Scaling websockets, streaming pipelines, and pub-sub systems for high concurrency.
-* **Clean Architecture**: Designing modular, testable codebases in TypeScript, Go, and Python.
+* **Micro-Frontend Platforms**: Scalable MFE architectures with design token systems driving UI consistency across teams.
+* **Real-Time Systems**: Streaming pipelines, pub-sub architectures, and websocket-based concurrency at scale.
 
 ---
 

@@ -25,6 +25,7 @@ I am a **Principal Software Engineer** specializing in **AI Engineering**, **Dis
 * **Deterministic CV & Media Pipelines**: Zero-flicker day-to-night video conversion via deterministic computer vision pipelines (Purkinje scotopic grading, 3D LUTs, luma-chroma sky segmentation, emissive bloom synthesis, and async FFmpeg engines); automated video watermark removal.
 
 ### 🌐 Distributed Systems & Scalability
+* **High-Throughput Microservices**: Resilient, event-driven backends and low-latency APIs built with Vertical Slice Architecture.
 * **Micro-Frontend Platforms**: Scalable MFE architectures with design token systems driving UI consistency across teams.
 * **Real-Time Systems**: Streaming pipelines, pub-sub architectures, and websocket-based concurrency at scale.
 
